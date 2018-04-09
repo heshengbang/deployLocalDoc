@@ -28,3 +28,9 @@ All images you can get it in hub.docker.com.
 
 - 进入容器
 `docker exec -it kubernetes_docs /bin/bash`
+
+
+# 参考链接
+
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
