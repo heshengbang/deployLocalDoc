@@ -1,5 +1,7 @@
 FROM golang:1.6
 
+MAINTAINER heshengbang "yunshixin8521894@sohu.com"
+
 ADD docker-entrypoint.sh /
 RUN chmod +x /docker-entrypoint.sh
 

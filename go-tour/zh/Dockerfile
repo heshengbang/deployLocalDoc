@@ -1,4 +1,6 @@
-FROM golang:1.6
+FROM golang:1.9
+
+MAINTAINER heshengbang "yunshixin8521894@sohu.com"
 
 RUN go get -u github.com/Go-zh/tour/gotour
 

@@ -1,5 +1,5 @@
 FROM jekyll/jekyll:stable
-MAINTAINER heshengbang "trulyheshengbang@gmail.com"
+MAINTAINER heshengbang "yunshixin8521894@sohu.com"
 ENV REFRESHED_AT 2018-04-05
  
 VOLUME /data
