@@ -1,4 +1,4 @@
-#Deploy Document In Your Company
+# Deploy Document In Your Computer
 Because some companys work in LAN or offline environment, there also have some places can't view open-source project's document.
 So, you can use this project for deploying document in your personal computer or your LAN serve.Attention, there are some sources are unable, if you find it, you can commit a issue and i will fix it and add it to document.
 
